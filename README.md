@@ -2,7 +2,7 @@
 
 ## Esta aplicação backend foi desenvolvida para buscar livros por título, listar livros e autores registrados, filtrar autores por ano de nascimento, ano de falecimento e idioma e número de downloads, tudo através de uma interface de console interativa e uma API externa.
 
-### Tecnologia utilizadas: <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/b2d0c6b4-647f-4ff2-9a96-826fc22cc53e" />
+### Tecnologias utilizadas: <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/b2d0c6b4-647f-4ff2-9a96-826fc22cc53e" />
 
 #### Java 17
 #### Spring Boot
