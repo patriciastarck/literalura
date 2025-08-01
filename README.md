@@ -24,4 +24,9 @@ ________________________________________________________________________________
 #### Listar Livros por Idioma: Filtra livros com base no idioma especificado e os exibe no console.
 _____________________________________________________________________________________________________________________________
 
+
+<img width="410" height="410" alt="Badge-Literalura" src="https://github.com/user-attachments/assets/ce8332b0-948c-4efa-af36-6c134025337f" />
+
+_____________________________________________________________________________________________________________________________
+
 ### Desenvolvido por Patricia Starck Bernardi - 2025 
